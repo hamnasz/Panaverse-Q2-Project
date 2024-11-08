@@ -45,17 +45,6 @@ Contributions to the project are welcome! To contribute, follow these steps:
 4. Push your changes to your fork.
 5. Create a pull request to merge your changes into the main repository.
 
-## Credits
-
-This app was created by [Karem Shabana](https://www.linkedin.com/in/karem-shabana/)
-.
-
-## License
-
-This project is licensed under the MIT license. See the `LICENSE` file for more details.
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
